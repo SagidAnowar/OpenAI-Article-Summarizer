@@ -1,4 +1,4 @@
-## OpenAI-Article-Summarizer
+## OpenAI Article Summarizer
 
 A modern responsive application that allows users to instantly extract and summarize articles using OpenAI's ChatGPT 4.0!
 Just simply copy & paste a url and let AI do the rest of the work!
